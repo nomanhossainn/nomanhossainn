@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**nomanhossainn/nomanhossainn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ My Skills
+👉 Programming languages
+  C   C++   JavaScript   Java   Python   PHP   Typescript
+
+👉 Development
+  HTML   CSS   Bootstrap   React   React   Tailwind
+
+👉 Databases & Cloud Hosting
+  MySQL   SQLite   GitHub Pages   MongoDB   Supabase
+
+👉 Designing
+  Figma   Adobe Lightroom   Canva
+
+👉 Software & Tools
+  Colab   Git   Visual Studio Code   Jupyter   Stack Overflow  
+
+
+📊 Github Stats (Expand to View)
+💻 GitHub Profile Stats
+
+🙋‍♀️ Let's Connect
+Website Gmail GitHub LinkedIn Facebook Kaggle
+
+Credit: Md Noman Hossain
