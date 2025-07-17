@@ -6,6 +6,8 @@ I'm passionate about full-stack development, AI/ML, and building real-world impa
 I’m currently working on exciting service platforms and contributing to open-source.
 
 ---
+## Visitor Count:
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nomanhossainn.nomanhossainn)
 
 ## Tech Stack:
 
@@ -60,6 +62,4 @@ I’m currently working on exciting service platforms and contributing to open-s
 
 ---
 
-## Visitor Count:
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nomanhossainn.nomanhossainn)
 
