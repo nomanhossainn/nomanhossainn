@@ -59,7 +59,26 @@ I’m currently working on exciting service platforms and contributing to open-s
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhossain222159@bscse.uiu.ac.bd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/noman-hossainn/))
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)]([https://yourblog.com](https://hashnode.com/@nomanhossain))
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tihan.noman)
+"""
+
+# Read existing file content
+readme_path = "/mnt/data/README.md"
+with open(readme_path, "r") as f:
+    content = f.read()
+
+# Replace old Connect section with updated one
+updated_content = content.replace(
+    "## 🌐 Connect With Me", connect_section
+)
+
+# Save updated README
+with open(readme_path, "w") as f:
+    f.write(updated_content)
+
+readme_path
+Result
+'/mnt/data/README.md'
 
 
 
