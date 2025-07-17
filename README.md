@@ -8,6 +8,24 @@ I’m currently working on exciting service platforms and contributing to open-s
 ---
 ## Visitor Count:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nomanhossainn.nomanhossainn)
+---
+
+## GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanhossainn&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## Most Used Languages:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanhossainn&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
 
 ## Tech Stack:
 
@@ -43,23 +61,6 @@ I’m currently working on exciting service platforms and contributing to open-s
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)]([https://yourblog.com](https://hashnode.com/@nomanhossain))
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/yourprofile)
 
----
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanhossainn&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanhossainn&layout=compact&theme=tokyonight" width="50%" />
-</p>
-
----
 
 
