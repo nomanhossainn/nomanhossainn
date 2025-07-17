@@ -31,7 +31,7 @@
 
 ## Tech Stack:
 
-### AI & Machine Learning  
+### AI & Machine Learning:  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
@@ -39,25 +39,25 @@
 ![LLM](https://img.shields.io/badge/LLM-blue?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-blue?style=flat)
 
-### Data Science  
+### Data Science:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat)
 
-### Visualization  
+### Visualization:  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)
 
-### Development Tools  
+### Development Tools:  
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat)
 
 ---
 
-## Connect With Me  
+## Connect With Me:  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhossain222159@bscse.uiu.ac.bd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/noman-hossainn/))
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)]([https://yourblog.com](https://hashnode.com/@nomanhossain))
