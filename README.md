@@ -1,7 +1,7 @@
 # Hi, I'm Noman Hossain!👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F79500&center=true&vCenter=true&multiline=true&width=435&lines=Innovator;Developer;Learner;Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79500&center=true&vCenter=true&width=500&lines=Innovator;Developer;Learner;Researcher" alt="Typing SVG" />
 </p>
 
 
