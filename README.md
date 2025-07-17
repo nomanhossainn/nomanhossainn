@@ -10,11 +10,11 @@ I’m currently working on exciting service platforms and contributing to open-s
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nomanhossainn.nomanhossainn)
 ---
 
-## GitHub Stats:
+<h2>GitHub Stats:</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 2%; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomanhossainn&show_icons=true&theme=tokyonight" style="width: 48%; min-width: 300px; height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanhossainn&theme=tokyonight" style="width: 48%; min-width: 300px; height: 200px;" />
+<div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nomanhossainn&show_icons=true&theme=tokyonight" style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanhossainn&theme=tokyonight" style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
 </div>
 
 ---
