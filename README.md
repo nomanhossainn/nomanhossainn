@@ -1,7 +1,7 @@
-# Hi, I'm Noman Hossain!👋
+<h1 align="center">Hi, I'm Noman Hossain!👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79500&center=true&vCenter=true&width=500&lines=Innovator;Developer;Learner;Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F79500&center=true&vCenter=true&width=500&lines=Innovator;Developer;Learner;Researcher; DS | AI | ML Enthusiast;Always learning new things" alt="Typing SVG" />
 </p>
 
 
