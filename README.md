@@ -1,5 +1,5 @@
-# Hi , I'm Noman Hossain! 👋  
-### Innovator | Developer | Learner
+# Hi, I'm Noman Hossain! 👋  
+### Innovator | Developer | Learner | Researcher
 
 I am a CS student at United International University and the Head of IT at UIU Sports Club.  
 I'm passionate about full-stack development, AI/ML, and building real-world impactful projects.  
@@ -7,7 +7,7 @@ I’m currently working on exciting service platforms and contributing to open-s
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack:
 
 ### AI & Machine Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -35,31 +35,31 @@ I’m currently working on exciting service platforms and contributing to open-s
 
 ---
 
-## 🌐 Connect With Me  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)](https://yourblog.com)
+## Connect With Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhossain222159@bscse.uiu.ac.bd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/noman-hossainn/))
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)]([https://yourblog.com](https://hashnode.com/@nomanhossain))
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/yourprofile)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanhossainn&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## Most Used Languages:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomanhossainn&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-## 🧮 Visitor Count
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+## Visitor Count:
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nomanhossainn.nomanhossainn)
 
