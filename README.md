@@ -1,9 +1,13 @@
-# Hi, I'm Noman Hossain! 👋  
-### Innovator | Developer | Learner | Researcher
+# Hi, I'm Noman Hossain!👋
 
-I am a CS student at United International University and the Head of IT at UIU Sports Club.  
-I'm passionate about full-stack development, AI/ML, and building real-world impactful projects.  
-I’m currently working on exciting service platforms and contributing to open-source.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F79500&center=true&vCenter=true&multiline=true&width=435&lines=Innovator;Developer;Learner;Researcher" alt="Typing SVG" />
+</p>
+
+
+- I am a CS student at United International University and the Head of IT at UIU Sports Club.  
+- I'm passionate about full-stack development, Research, AI/ML, and building real-world impactful projects.  
+- I’m currently working on exciting service platforms and contributing to open-source.
 
 ---
 ## Visitor Count:
