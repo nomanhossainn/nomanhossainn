@@ -31,13 +31,17 @@
 
 ## Tech Stack:
 
-### AI & Machine Learning:  
+### AI & Machine Learning:   
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![Groq](https://img.shields.io/badge/Groq-000000?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-2B2B2B?style=flat&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6F00?style=flat&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2E8B57?style=flat&logo=semantic-web&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat&logo=tensorflow&logoColor=black)
+![SAM](https://img.shields.io/badge/SAM%20(Segment%20Anything)-FF69B4?style=flat&logo=meta&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-blue?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-blue?style=flat)
+
 
 ### Data Science:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
