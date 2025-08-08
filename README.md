@@ -63,7 +63,7 @@
 
 ## Connect With Me:  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhossain222159@bscse.uiu.ac.bd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/noman-hossainn/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-hossainn/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)]([https://yourblog.com](https://hashnode.com/@nomanhossain))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/tihan.noman)
 
