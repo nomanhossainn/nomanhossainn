@@ -20,18 +20,17 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nomanhossainn&show_icons=true&theme=tokyonight" />
     </td>
-    <!-- Right: GitHub Streak Stats -->
+    <!-- Right: GitHub Streak Stats (fixed version) -->
     <td>
-      <img src="https://streak-stats.demolab.com?user=nomanhossainn&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nomanhossainn&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
-<!-- Below: Attractive Graph (Profile Summary without “Joined GitHub…” text) -->
+<!-- Below: Attractive Graph (without "Joined GitHub 1 year ago") -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomanhossainn&theme=tokyonight&utcOffset=6" />
 </p>
-
 
 
 ## Most Used Languages:
