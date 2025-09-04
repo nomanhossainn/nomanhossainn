@@ -28,7 +28,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanhossainn&theme=tokyo-night" />
+  <img src="https://ghchart.rshah.org/006AFF/nomanhossainn" alt="nomanhossainn's Github chart" />
 </p>
 
 
