@@ -12,26 +12,26 @@
 ## Visitor Count:
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nomanhossainn.nomanhossainn)
 
-<h2>GitHub Stats:</h2>
+## GitHub Stats:
 
-<h2>GitHub Stats:</h2>
+<table>
+  <tr>
+    <!-- Left: GitHub Readme Stats -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nomanhossainn&show_icons=true&theme=tokyonight" />
+    </td>
+    <!-- Right: GitHub Streak Stats -->
+    <td>
+      <img src="https://streak-stats.demolab.com?user=nomanhossainn&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <!-- Left: GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nomanhossainn&show_icons=true&theme=tokyonight" 
-       style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
+<!-- Below: Attractive Graph (Profile Summary without “Joined GitHub…” text) -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomanhossainn&theme=tokyonight&utcOffset=6" />
+</p>
 
-  <!-- Right: GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=nomanhossainn&theme=tokyonight&hide_border=true" 
-       style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
-</div>
-
-<!-- Below: Attractive Graph (Profile Summary with Total Commits, PRs, Issues, etc.) -->
-<div align="center" style="margin-top: 1.5rem;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanhossainn&theme=tokyonight" 
-       style="width: 100%; max-width: 700px; object-fit: cover;" />
-</div>
----
 
 
 ## Most Used Languages:
