@@ -15,11 +15,19 @@
 <h2>GitHub Stats:</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomanhossainn&show_icons=true&theme=tokyonight" style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
-  <img src="https://streak-stats.demolab.com?user=nomanhossainn&theme=tokyonight&hide_border=true" style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
+  <!-- GitHub Readme Stats (year-based commits) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nomanhossainn&show_icons=true&theme=tokyonight" 
+       style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=nomanhossainn&theme=tokyonight&hide_border=true" 
+       style="width: 48%; min-width: 300px; height: 200px; object-fit: cover;" />
+
+  <!-- Profile Summary (shows total commits all-time + more) -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nomanhossainn&theme=tokyonight" 
+       style="width: 100%; max-width: 700px; object-fit: cover;" />
 </div>
 
----
 
 ## Most Used Languages:
 
