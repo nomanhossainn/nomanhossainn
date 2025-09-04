@@ -27,7 +27,6 @@
   </tr>
 </table>
 
-<!-- Below: Attractive Graph (without "Joined GitHub 1 year ago") -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nomanhossainn&theme=tokyonight&utcOffset=6" />
 </p>
