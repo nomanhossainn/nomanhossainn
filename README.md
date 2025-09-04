@@ -27,9 +27,11 @@
   </tr>
 </table>
 
+<!-- Commit Activity Graph -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/006AFF/nomanhossainn" alt="nomanhossainn's Github chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomanhossainn&theme=tokyo-night" />
 </p>
+
 
 
 ## Most Used Languages:
