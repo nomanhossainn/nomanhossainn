@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Innovator;Developer;Learner;Researcher;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- I am a CS student at United International University and the Head of IT at UIU Sports Club.  
+- I am a CS student at United International University, and the Vice President and Ex-Head of IT at UIU Sports Club.  
 - I'm passionate about full-stack development, Research, AI/ML, and building real-world impactful projects.  
 - I’m currently working on exciting service platforms and contributing to open-source.
 
