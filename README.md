@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Innovator;Developer;Learner;Researcher;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-I’m a 4th-year Computer Science student at United International University (UIU) and currently work as a Research Assistant at the Institute for Advanced Research (IAR). I have leadership experience as Vice President and former Head of IT for the UIU Sports Club. I’m actively engaged in undergraduate research at the AAIINS Lab, focusing on computer vision for wildlife biodiversity and endangered animal monitoring. Beyond wildlife research, I'm interested in medical image analysis, domain adaptation, object detection, instance segmentation, and pose estimation. I also successfully operate an e-commerce business, demonstrating strong entrepreneurial skills and market understanding.
+I’m a 4th-year Computer Science student at United International University (UIU) and currently work as a Research Assistant at the Institute for Advanced Research (IAR). I have leadership experience as Vice President and former Head of IT for the UIU Sports Club. I’m actively working as an undergraduate researcher at the AAIINS Lab, focusing on computer vision for wildlife biodiversity and endangered animal monitoring. Beyond wildlife research, I'm interested in medical image analysis, domain adaptation, object detection, instance segmentation, and pose estimation. I also successfully operate an e-commerce business, demonstrating strong entrepreneurial skills and market understanding.
 
 ---
 ## Visitor Count:
